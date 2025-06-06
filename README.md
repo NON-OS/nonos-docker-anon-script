@@ -1,4 +1,4 @@
-# NONOS x EK — Anon Relay Farm & Server Hardening 🧱
+# NONOS x Anon Relay Farm & Server Hardening 🧱
 
 A fully automated, scalable deployment framework for running up to **252 Dockerized Anon relays** with hardened security, `macvlan` IP isolation, and enterprise-grade Linux hardening — designed for **data center environments**.
 
@@ -6,7 +6,7 @@ A fully automated, scalable deployment framework for running up to **252 Dockeri
 
 ## 🔧 Overview
 
-This project provisions and launches a fleet of Anon protocol relays using Docker, while simultaneously securing the host system using best practices for server hardening. Each relay runs in an isolated container, with a unique IP address assigned via macvlan networking, and a dedicated configuration.
+This project provisions and launches a fleet of Anyone protocol relays using Docker, while simultaneously securing the host system using best practices for server hardening. Each relay runs in an isolated container, with a unique IP address assigned via macvlan networking, and a dedicated configuration.
 
 ---
 
