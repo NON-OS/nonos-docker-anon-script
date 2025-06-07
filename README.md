@@ -41,6 +41,6 @@ This project provisions and launches a fleet of Anyone protocol relays using Doc
 
 ```bash
 git clone https://github.com/NON-OS/nonos-docker-anon-script
-cd nonos-docker-anon-script
-chmod +x nonos-docker-anon-script
-sudo nonos-docker-anon-script
+cd relay.sh
+chmod +x relay.sh
+./relay.sh
