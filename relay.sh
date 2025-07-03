@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # ====================================================
-#   NØNOS Relay Farm Installer (Professional Edition)
+#   NØNOS Relay Farm Installer (Final Edition)
 # ====================================================
 #  → Builds isolated Docker relays using Anon Protocol
 #  → Includes hardened firewall, SSH, kernel configs
